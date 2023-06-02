@@ -9,4 +9,5 @@ public class CheckPoint {
     public int getOrderNo() {
         return orderNo;
     }
+
 }
